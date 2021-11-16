@@ -1,0 +1,157 @@
+leftnav:
+- identifier: 9582ec11-0aca-9f2f-fa07-20af009e9a17
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 71bd52f8-0211-8491-207f-722087127ab2
+  name: The Basics
+  url: /pages/the-basics/
+  weight: 20
+- identifier: 45835dfc-c452-9857-1439-3b5178da3666
+  name: What is Programming?
+  parent: 71bd52f8-0211-8491-207f-722087127ab2
+  url: /pages/the-basics/what-is-programming
+  weight: 30
+- identifier: a49b4dad-e887-0239-3428-74b2309ddbed
+  name: Command Prompt and Expressions
+  parent: 71bd52f8-0211-8491-207f-722087127ab2
+  url: /pages/the-basics/command-prompt-and-expressions
+  weight: 40
+- identifier: 7836f3ce-cf5f-4025-30dd-78bd120b701a
+  name: Lists, Vectors, and Matrices
+  parent: 71bd52f8-0211-8491-207f-722087127ab2
+  url: /pages/the-basics/lists-vectors-and-matrices
+  weight: 50
+- identifier: a56e8e06-8426-107c-a093-c76e207364bd
+  name: Variables
+  parent: 71bd52f8-0211-8491-207f-722087127ab2
+  url: /pages/the-basics/variables
+  weight: 60
+- identifier: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
+  name: Root-Finding
+  url: /pages/root-finding/
+  weight: 70
+- identifier: 914a82ac-fa92-cf91-5ecf-24b1e2c6d1ce
+  name: Warm-up
+  parent: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
+  url: /pages/root-finding/warm-up
+  weight: 80
+- identifier: b66efdff-770f-0bea-25c3-7377318de9c0
+  name: Newton's Method
+  parent: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
+  url: /pages/root-finding/newtons-method
+  weight: 90
+- identifier: 1bc369b7-cf75-3e2c-e077-7b944523c88c
+  name: The Secant Method
+  parent: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
+  url: /pages/root-finding/the-secant-method
+  weight: 100
+- identifier: 812910f0-1a91-3bdd-eb41-585370bf7bef
+  name: More Sub-Indexing
+  parent: 33cb3bda-3dc0-895f-f5de-7bc1b91f60c2
+  url: /pages/root-finding/more-sub-indexing
+  weight: 110
+- identifier: 81a610a8-35a9-454d-733f-ecd98304058c
+  name: Basic Plotting
+  url: /pages/basic-plotting/
+  weight: 120
+- identifier: cf798304-e742-31c2-5fa3-24cb0ee3ab0e
+  name: Warm-up
+  parent: 81a610a8-35a9-454d-733f-ecd98304058c
+  url: /pages/basic-plotting/warm-up
+  weight: 130
+- identifier: e97ad6fd-f5f1-abbc-81c0-a3cefd271812
+  name: Basins of Attraction
+  parent: 81a610a8-35a9-454d-733f-ecd98304058c
+  url: /pages/basic-plotting/basins-of-attraction
+  weight: 140
+- identifier: 18645230-e50f-3945-e34d-99f24f40ca3a
+  name: Vectorization
+  url: /pages/vectorization/
+  weight: 150
+- identifier: 81aa80d1-4f27-c72e-1dd0-74d022a27aaa
+  name: Warm-up
+  parent: 18645230-e50f-3945-e34d-99f24f40ca3a
+  url: /pages/vectorization/warm-up
+  weight: 160
+- identifier: 0523856e-c9fc-9e71-66c9-d2d9aecf63e3
+  name: Complex Numbers
+  parent: 18645230-e50f-3945-e34d-99f24f40ca3a
+  url: /pages/vectorization/complex-numbers
+  weight: 170
+- identifier: 38dcb8d2-635f-7663-efc8-af4d44a9d9ea
+  name: User-Defined Functions
+  parent: 18645230-e50f-3945-e34d-99f24f40ca3a
+  url: /pages/vectorization/user-defined-functions
+  weight: 180
+- identifier: 9feb7d76-e06d-418f-a379-2948357f1bec
+  name: Scope
+  parent: 18645230-e50f-3945-e34d-99f24f40ca3a
+  url: /pages/vectorization/scope
+  weight: 190
+- identifier: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
+  name: Fractals and Chaos
+  url: /pages/fractals-and-chaos/
+  weight: 200
+- identifier: 892e211f-42f9-0c33-de8e-347b0fe16037
+  name: Logistic Equation
+  parent: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
+  url: /pages/fractals-and-chaos/logistic-equation
+  weight: 210
+- identifier: e3b06d2c-1ab6-413e-6e03-3e6f881df396
+  name: More on Loops
+  parent: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
+  url: /pages/fractals-and-chaos/more-on-loops
+  weight: 220
+- identifier: 82a5f4af-7795-cec4-2244-10e4df0f38ae
+  name: 'Terminating a Loop Prematurely: Break and Continue'
+  parent: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
+  url: /pages/fractals-and-chaos/terminating-a-loop-prematurely-break-and-continue
+  weight: 230
+- identifier: f5001e47-4d28-4c8a-d02d-71a23087e038
+  name: Truth Statements and Logical Indexing
+  parent: 1d7068b5-ce8d-3b56-622a-e79682a1dd43
+  url: /pages/fractals-and-chaos/truth-statements-and-logical-indexing
+  weight: 240
+- identifier: 376c3d97-71c7-c91d-107d-f6d7f5c02e64
+  name: Debugging with MATLAB
+  url: /pages/debugging-with-matlab
+  weight: 250
+- identifier: 71d3260e-1e77-4a0e-ad3b-6b3411cacf8c
+  name: Conway Game of Life
+  url: /pages/conway-game-of-life/
+  weight: 260
+- identifier: 63b7f21b-14f9-7880-2f14-7e5eef949b23
+  name: Warm-up
+  parent: 71d3260e-1e77-4a0e-ad3b-6b3411cacf8c
+  url: /pages/conway-game-of-life/warm-up
+  weight: 270
+- identifier: 1d99d88a-59e7-ffd3-c082-67cb9d37d780
+  name: Conway Game of Life Implementation
+  parent: 71d3260e-1e77-4a0e-ad3b-6b3411cacf8c
+  url: /pages/conway-game-of-life/conway-game-of-life-implementation
+  weight: 280
+- identifier: f9312176-280b-6b53-7b61-db0880b99562
+  name: Library
+  url: /pages/library/
+  weight: 290
+- identifier: cd7c2d27-5ba5-e73e-6cc6-551edae9359f
+  name: Exercises
+  parent: f9312176-280b-6b53-7b61-db0880b99562
+  url: /pages/library/exercises
+  weight: 300
+- identifier: af6bed81-c4d0-d0aa-0ddf-c05a4f082b9d
+  name: Homework
+  parent: f9312176-280b-6b53-7b61-db0880b99562
+  url: /pages/library/homework
+  weight: 310
+- identifier: 08cfb41f-1f5e-b1e9-bb10-ba9eae5b1b45
+  name: More Projects
+  parent: f9312176-280b-6b53-7b61-db0880b99562
+  url: /pages/library/projects
+  weight: 320
+- identifier: 09d33900-a14c-3db2-9266-e662a30abca3
+  name: Videos
+  parent: f9312176-280b-6b53-7b61-db0880b99562
+  url: /pages/library/videos
+  weight: 330

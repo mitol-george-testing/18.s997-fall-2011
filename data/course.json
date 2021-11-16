@@ -1,0 +1,39 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c0b57fe0-cef5-2533-2569-1640ac72a098"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction To MATLAB Programming",
+  "course_description": "This course is intended to assist undergraduates with learning the basics of programming in general and programming MATLAB\u00ae in particular.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.S997",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Videos",
+    "Online Textbook",
+    "Programming Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
